@@ -519,7 +519,7 @@ msgid ""
 msgstr ""
 "Cualquier correo electrónico enviado a esta dirección se convertirá en una "
 "nota y se añadirá a tu colección. La nota se guardará en la libreta Bandeja "
-"de entrada."
+"de entrada"
 
 #: packages/lib/models/Setting.ts:1174
 msgid "Appearance"
@@ -1424,7 +1424,7 @@ msgstr "Ctrl-clic para abrir: %s"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:24
 msgid "current match"
-msgstr "Partido actual"
+msgstr "coincidencia actual"
 
 #: packages/app-desktop/gui/MasterPasswordDialog/Dialog.tsx:153
 msgid "Current password"
@@ -3335,7 +3335,7 @@ msgstr "Contraseña maestra:"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:19
 msgid "match case"
-msgstr "Caso de coincidencia"
+msgstr "coincidir mayúsculas"
 
 #: packages/app-mobile/components/NoteEditor/commandDeclarations.ts:72
 msgid "Math"
@@ -3805,7 +3805,7 @@ msgstr "En %s: %s"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:27
 msgid "on line"
-msgstr "En línea"
+msgstr "en línea"
 
 #: packages/app-desktop/gui/MainScreen.tsx:525
 msgid "One of your master keys use an obsolete encryption method."
@@ -3885,7 +3885,7 @@ msgstr "Apertura de la sección %s"
 
 #: packages/app-mobile/components/Dropdown.tsx:215
 msgid "Opens dropdown"
-msgstr "Abre el menú desplegable "
+msgstr "Abre el menú desplegable"
 
 #: packages/app-mobile/components/NoteItem.tsx:162
 msgid "Opens note"
@@ -4422,7 +4422,7 @@ msgstr "Reemplazar"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:22
 msgid "replace all"
-msgstr "Reemplazar todo"
+msgstr "reemplazar todo"
 
 #: packages/app-mobile/components/NoteEditor/SearchPanel.tsx:301
 msgid "Replace all"
@@ -4438,11 +4438,11 @@ msgstr "Reemplazar: "
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:25
 msgid "replaced $ matches"
-msgstr "Coincidencias de $ reemplazadas"
+msgstr "coincidencias de $ reemplazadas"
 
 #: packages/app-desktop/gui/NoteEditor/NoteBody/CodeMirror/v6/utils/localisation.ts:26
 msgid "replaced match on line $"
-msgstr "Coincidencia reemplazada en línea $"
+msgstr "coincidencia reemplazada en línea $"
 
 #: packages/app-mobile/components/screens/ConfigScreen/plugins/PluginInfoModal.tsx:162
 msgid "Report an issue"
@@ -4518,8 +4518,7 @@ msgstr "Restaurar libreta"
 
 #: packages/app-cli/app/command-restore.ts:12
 msgid "Restore the items matching <pattern> from the trash."
-msgstr ""
-"Restaure los elementos que coincidan <pattern> desde la papelera.</pattern>"
+msgstr "Restaura los elementos que coinciden con <pattern> desde la papelera."
 
 #: packages/lib/services/trash/index.ts:88
 msgid "Restored items"
